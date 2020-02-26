@@ -19,8 +19,6 @@ def do_action():
         #text_var.set(str(e))
         text_var.set('Error in download')
 
-    
-
 label = Tk.Label(
     text="Youtube Video Download\n\nPlease paste\nThe youtube address below:",
     foreground="white",  # Set the text color to white
